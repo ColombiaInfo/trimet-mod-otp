@@ -1,7 +1,7 @@
 {
   "name": "trimet-mod-otp",
   "version": "0.1.0",
-  "description": "TriMet deployment of otp-react-redux",
+  "description": "Colombiainfo.org deployment of otp-react-redux",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=production",
