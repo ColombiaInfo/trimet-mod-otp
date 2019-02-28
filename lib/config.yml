@@ -101,7 +101,7 @@ reportIssue:
 
 analytics:
   google:
-    globalSiteTag: UA-133677388-1
+    globalSiteTag: UA-10250708-3
 
 # Temporary language overrides -- eventually replace w/ I18N language tables
 language:

@@ -4,7 +4,7 @@
   "description": "Colombiainfo.org deployment of otp-react-redux",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode=production",
+    "build": "webpack -p --mode=production",
     "prestart": "yarn",
     "start": "webpack-dev-server --mode=development --host 0.0.0.0",
     "test": "echo \"Error: no test specified\" && exit 1"
